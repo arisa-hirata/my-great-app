@@ -24,7 +24,7 @@ const HomePage: React.FC = () => {
       <p>
         →<Link to="/about">About</Link>
       </p>
-      <MainImage />
+      <MainImag />
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
         officia magnam sunt? Sunt harum obcaecati, fuga consequatur, suscipit
